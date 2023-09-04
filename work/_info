@@ -1,0 +1,139 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/work/verilog/E_ICC_2022_pre_univ_JAM
+T_opt
+!s110 1693855015
+VoK`DWKTS8TAIc:cFcf2>O3
+Z1 04 11 4 work testfixture fast 0
+=1-d8bbc1c79aa0-64f62d27-178-2ff4
+Z2 o-quiet -auto_acc_if_foreign -work work -L C:\\work\\IC\\tsmc090_lib\\
+n@_opt
+Z3 OL;O;10.4;61
+R0
+T_opt1
+!s110 1693855308
+VESOFcgFm;:U@iGE^YYU<`2
+R1
+=1-d8bbc1c79aa0-64f62e4c-2f3-dc8
+R2
+n@_opt1
+R3
+vJAM
+Z4 !s110 1693855293
+!i10b 1
+!s100 ^EI7Rm>PGIQf1A=<Hf6mo1
+IWFB<9Q@oGj4z8WXlG_9BB3
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z6 w1693854628
+Z7 8.\JAM_syn.v
+Z8 F.\JAM_syn.v
+L0 94
+Z9 OL;L;10.4;61
+r1
+!s85 0
+31
+Z10 !s108 1693855293.914000
+Z11 !s107 .\JAM_syn.v|tb.sv|
+Z12 !s90 tb.sv|.\JAM_syn.v|+define+P1|+define+SDF|
+!i113 0
+Z13 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z14 !s92 +define+P1 +define+SDF -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@j@a@m
+vJAM_DW01_add_0
+R4
+!i10b 1
+!s100 =:`gZCKc:152jGkOZb5Rj3
+IZ5QnT?IWoPAkAgBQm_D;21
+R5
+R0
+R6
+R7
+R8
+L0 64
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+n@j@a@m_@d@w01_add_0
+vJAM_DW01_add_1
+R4
+!i10b 1
+!s100 6WGF65<TE7j58cfmHQd_<2
+IddV1^WGUZL`eYSCgfzNP72
+R5
+R0
+R6
+R7
+R8
+L0 36
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+n@j@a@m_@d@w01_add_1
+vJAM_DW01_add_4
+R4
+!i10b 1
+!s100 kgnQRoW860[k2dg@VJa[g0
+I>@Z?C@UA_UMG<9fMKfB>d1
+R5
+R0
+R6
+R7
+R8
+L0 8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14
+n@j@a@m_@d@w01_add_4
+vtestfixture
+DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+R4
+!i10b 1
+!s100 O56nQT7VlfhmWZUOgMb9g3
+IC30]kQe`UJ4QIk:FT;Azz3
+R5
+!s105 tb_sv_unit
+S1
+R0
+w1693820389
+8tb.sv
+Ftb.sv
+L0 18
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R14

@@ -1,0 +1,8 @@
+*.tcl
+*.sdc
+*.do
+report.000
+*.bat
+*.vcd
+synopsys_dc.setup
+transcript
